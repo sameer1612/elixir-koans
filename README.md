@@ -1,4 +1,4 @@
-# Elixir Koans
+# Elixir Koans - Solved
 
 ![CI](https://github.com/elixirkoans/elixir-koans/actions/workflows/elixir.yml/badge.svg)
 
